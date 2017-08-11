@@ -90,7 +90,6 @@ $sample.sample_id,$sample.tissue,$sample.factor,$sample.condition,$sample.replic
     </outputs>
     <help>
 <![CDATA[
-
 What it does
 ************
 
@@ -121,7 +120,6 @@ DiffBind_ Authors:  Rory Stark, Gordon Brown (2011)
 .. _DiffBind: http://www.bioconductor.org/packages/release/bioc/html/DiffBind.html
 
 Wrapper authors: Bjoern Gruening, Pavankumar Videm
-
 ]]>
     </help>
     <citations>
